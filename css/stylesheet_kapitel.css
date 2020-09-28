@@ -1,0 +1,129 @@
+@import url("normalize.css"); 
+
+body {background-image: linear-gradient(90deg, rgba(236,101,127,1) 0%, rgba(255,179,47,1) 29%, rgba(169,223,20,1) 56%, rgba(0,255,255,1) 100%);}
+
+h1  {text-align: left;
+    font-size: 60pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+    clear: both;
+    margin: 15% 2% 2% 4%;    
+}
+
+
+p   {color: blue;
+    text-align: left;
+    font-size: 25px;
+    width: 490pt; 
+    margin: 4% ;
+    font-family: Viaoda Libre; "Times New Roman";
+}
+
+
+li  {font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 12px;
+    text-align:center;
+    list-style: none;
+    max-width: 100pt;
+    width: auto;
+    float: left;
+    padding: 30px 30px 15px 0px;
+    margin: 0;
+}
+
+a {color: white;   
+}
+
+a.aktuell{color: blue;
+}
+
+nav.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgba(236,101,127,1) 0%, rgba(255,179,47,1) 29%, rgba(169,223,20,1) 56%, rgba(0,255,255,1) 100%);
+}
+
+.pics1{
+    border-color: 00ff00;
+    border-width: 5px;
+    border-style: solid;
+    float:right;
+    margin: 2% 25% 2% 2%;
+}
+
+.pics2{
+    border-color: 00ff00;
+    border-width: 5px;
+    border-style: solid;
+    float:right;
+    margin: 2% 15% 2% 2%;
+}
+
+.pics3{
+    border-color: 00ff00;
+    border-width: 5px;
+    border-style: solid;
+    float:right;
+    margin: 2% -30% 2% 2%;
+}
+
+.pics4{
+    border-color: 00ff00;
+    border-width: 5px;
+    border-style: solid;
+    float: right;
+    margin: 2% -50% 2% 2%;
+}
+
+.pics5{
+    border-color: 00ff00;
+    border-width: 5px;
+    border-style: solid;
+    clear: both;
+    margin: 0% 30% 2% 4%;
+}
+    
+    
+.weiter{text-align: center;
+    font-size: 60pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+    text-decoration: none;
+    width: 490pt;
+    }
+
+.zurueck{text-align: center;
+    font-size: 60pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+    text-decoration: none;
+    width: 490pt; 
+    margin: 4% ;
+    }
+
+
+li.fussnote{
+    max-width: 490pt;
+    color:blue;
+    text-align: left;
+    padding: 5px 5px 15px 0px;
+    float: none;
+    clear:both;
+}
+
+a.fussnote{color:blue;}
+
+.impressum{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 12px;
+    color: blue;
+}
+
+hr{clear:both;
+    border-width:2.5px;
+    border-style:solid;
+    border-color: 00ff00;
+    
+}
